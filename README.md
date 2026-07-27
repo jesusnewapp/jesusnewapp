@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jesusnewapp/jesusnewapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Christian Cassarly
 
-Here are some ideas to get you started:
+### Author · Creator · Christian Technology Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building faith-centered tools for Scripture, learning, creativity, and everyday life.*
+
+[Official Website](https://christiancassarly.com/) · [Jesus New](https://jesusnew.com/) · [Literary Works](https://christiancassarly.com/literary-works-gallery/) · [LinkedIn](https://www.linkedin.com/in/christian-cassarly-942400380/)
+
+</div>
+
+---
+
+## Current Work
+
+### Jesus New OS
+
+An OS-inspired Christian application experience designed around Scripture, reflection, education, and useful daily tools. Its central experience is a conversational Bible intended to help people explore Scripture and connect biblical teaching with everyday questions.
+
+- **Jesus New OS Mini** — available on iOS
+- **Jesus New OS Navigator** — being developed for the Pinecone experience
+- **Superpower Thinking University** — a long-term education initiative integrated with the broader platform
+
+[Explore Jesus New OS](https://jesusnew.com/) · [View on the App Store](https://apps.apple.com/fr/app/jesus-new-os/id6752420337)
+
+### Pinecone
+
+A Linux-based phone project currently in beta. The present development focus is stability, reproducibility, and preparing the Jesus New OS Navigator experience for public demonstration. Any release timing remains a development target rather than a guarantee.
+
+### Writing & Publishing
+
+Christian Cassarly is the author of a broad catalog spanning faith, personal development, food, mobility, productivity, finance, and technology. Selected works include *Jehovah Universe*, *Jehova Diet*, *Structural Training*, *Readiest*, and the forthcoming *Jesus New OS* companion book.
+
+[Browse the Literary Works Gallery](https://christiancassarly.com/literary-works-gallery/)
+
+### Superpower Thinking
+
+A multi-year educational body of work focused on financial literacy, decision-making, personal development, and applied learning.
+
+[Visit Superpower Thinking](https://superpowerthinking.org)
+
+---
+
+## Principles
+
+- Build with respect and dignity toward God the Creator.
+- Be transparent about AI-assisted work.
+- Document projects honestly, including beta status and limitations.
+- Focus on useful work being done today.
+- Keep learning, testing, and improving.
+
+## About This GitHub
+
+This account documents active projects, technical experiments, product milestones, and public-facing project information. Repositories will be expanded as code, documentation, demonstrations, and release materials are prepared for responsible publication.
+
+> Continue to do your best—because striving for your best is how you discover what your best can become.
+
+---
+
+<div align="center">
+
+[ChristianCassarly.com](https://christiancassarly.com/) · [ChristianCassarly.net](https://www.christiancassarly.net/) · [JesusNew.com](https://jesusnew.com/)
+
+</div>
