@@ -14,6 +14,14 @@
 
 ## Current Work
 
+### Sweeper V2
+
+**Sweeper V2** is a lightweight, open-source framework created by Christian Cassarly through Jesus New OS for responsible large-scale information acquisition. It supports two major source lanes, six minor source slots, configurable information policies, provenance, resumability, content hashing, and optional model-assisted review.
+
+- **[Get Sweeper V2 on GitHub](https://github.com/jesusnewapp/sweeper-v2)**
+- **[Download the latest Sweeper V2 release](https://github.com/jesusnewapp/sweeper-v2/releases/latest)**
+- **[Check out Jesus New OS on iOS](https://apps.apple.com/us/app/jesus-new-os/id6752420337)**
+
 ### Jesus New OS
 
 An OS-inspired Christian application experience designed around Scripture, reflection, education, and useful daily tools. Its central experience is a conversational Bible intended to help people explore Scripture and connect biblical teaching with everyday questions.
