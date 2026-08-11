@@ -28,7 +28,7 @@ An OS-inspired Christian application experience designed around Scripture, refle
 
 - **Jesus New OS Mini** — available on iOS
 - **Jesus New OS Navigator** — being developed for the Pinecone experience
-- **Superpower Thinking University** — a long-term education initiative integrated with the broader platform
+- **Superpower Thinking Education** — the full college-degree education system inside Jesus New OS, with 3 complete majors and 80 minors
 
 [Explore Jesus New OS](https://jesusnew.com/) · [View on the App Store](https://apps.apple.com/fr/app/jesus-new-os/id6752420337)
 
