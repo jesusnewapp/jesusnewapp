@@ -42,11 +42,9 @@ Christian Cassarly is the author of a broad catalog spanning faith, personal dev
 
 [Browse the Literary Works Gallery](https://christiancassarly.com/literary-works-gallery/)
 
-### Superpower Thinking
+### Superpower Thinking Education in Jesus New OS
 
-A multi-year educational body of work focused on financial literacy, decision-making, personal development, and applied learning.
-
-[Visit Superpower Thinking](https://superpowerthinking.org)
+Superpower Thinking is the complete education system inside Jesus New OS—not a separate website. It provides full college-degree education through **3 complete majors and 80 minors**, bringing structured higher learning, financial literacy, decision-making, personal development, and applied education directly into the OS.
 
 ---
 
