@@ -2,7 +2,7 @@
 
 # Christian Cassarly
 
-### Author · Creator · Christian Technology Builder
+### Author · Creator · Founder of Codex · Christian Technology Builder
 
 *Building faith-centered tools for Scripture, learning, creativity, and everyday life.*
 
@@ -31,6 +31,12 @@ An OS-inspired Christian application experience designed around Scripture, refle
 - **Superpower Thinking Education** — the full college-degree education system inside Jesus New OS, with 3 complete majors and 80 minors
 
 [Explore Jesus New OS](https://jesusnew.com/) · [View on the App Store](https://apps.apple.com/fr/app/jesus-new-os/id6752420337)
+
+### Codex & the Living Codex
+
+Christian Cassarly is the founder of **Codex**, the largest Christian-exclusive digital library in the world. Created through Jesus New OS, Codex preserves public-domain sacred literature and makes approximately **20,000 sacred books available to borrow through the Jesus New OS software**.
+
+The **Living Codex** transforms that collection into an immersive library experience. Readers move through expansive digital hallways, with individual rooms opening into organized collections of Scripture, theology, devotion, sermons, Christian history, biography, literature, and other areas of Christian learning. Instead of encountering the library as a flat list, readers can explore it as a place—walking its halls, entering rooms, discovering books, and borrowing works through the Jesus New OS experience.
 
 ### Pinecone
 
