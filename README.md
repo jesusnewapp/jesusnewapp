@@ -16,7 +16,7 @@
 
 ### Sweeper V2
 
-**Sweeper V2** is a lightweight, open-source framework created by Christian Cassarly through Jesus New OS for responsible large-scale information acquisition. It supports two major source lanes, six minor source slots, configurable information policies, provenance, resumability, content hashing, and optional model-assisted review.
+**Sweeper V2** is a provenance-protected library builder for future AI training models. Created by Christian Cassarly through Jesus New OS, it supports responsible large-scale information acquisition. It supports two major source lanes, six minor source slots, configurable information policies, provenance, resumability, content hashing, and optional model-assisted review.
 
 > **Codex valuation:** Codex values the **Web Sweeper** software system at **$7.5 million**. This system-generated estimate is not an independent appraisal, investment offer, or guarantee. Happy downloading.
 
